@@ -179,6 +179,7 @@ section {
 .section__text {
     align-self: center;
     text-align: center;
+    cursor: default;
 }
 
 .section__text p {
